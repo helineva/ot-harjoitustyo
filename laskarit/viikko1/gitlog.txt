@@ -1,0 +1,113 @@
+commit 590223140d79b3415ff97d04d29a211fa2f4fa6d
+Author: Teemu Helineva <teemu.helineva@gmail.com>
+Date:   Sun Oct 29 18:33:32 2023 +0200
+
+    Poistettu file1; Muutettu nimi file2 -> file22
+
+ tiedostoja/file1             | 1 -
+ tiedostoja/{file2 => file22} | 0
+ 2 files changed, 1 deletion(-)
+
+commit e955c2b084f691a7989adab342ab80423adf8bd6
+Author: Teemu Helineva <teemu.helineva@gmail.com>
+Date:   Sun Oct 29 18:29:59 2023 +0200
+
+    Lisätty hakemisto tiedostoja
+
+ tiedostoja/file1 | 1 +
+ tiedostoja/file2 | 1 +
+ tiedostoja/file3 | 1 +
+ 3 files changed, 3 insertions(+)
+
+commit a25f63d1ae6bb95ea26bf5ed2daaf5a8288dee83
+Author: Teemu Helineva <teemu.helineva@gmail.com>
+Date:   Sun Oct 29 18:04:05 2023 +0200
+
+    Muutettu eka.txt ja kolmas.txt
+
+ eka.txt    | 3 ++-
+ kolmas.txt | 3 ++-
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+
+commit 18b732faafe2a33fa05a75ebf894e1631bf7b105
+Author: Teemu Helineva <teemu.helineva@gmail.com>
+Date:   Sun Oct 29 18:02:19 2023 +0200
+
+    muutettu nimi tiedosto.txt -> eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 0039a3005e1b3ed30a255216a86ed5b11fbbd857
+Author: Teemu Helineva <teemu.helineva@gmail.com>
+Date:   Sun Oct 29 17:59:11 2023 +0200
+
+    Tiedosto toinen.txt poistettu
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 8ee2b1e57c77986c2e26f44deecd27e0a0b62029
+Author: Teemu Helineva <teemu.helineva@gmail.com>
+Date:   Sun Oct 29 17:57:22 2023 +0200
+
+    Poistettu tekstiä ja lisätty tekstiä tiedostoon tiedosto.txt
+
+ tiedosto.txt | 9 ++++++---
+ 1 file changed, 6 insertions(+), 3 deletions(-)
+
+commit 5c4a83b3ab8c9767bcf5a121892c0a1839dc7126
+Author: Teemu Helineva <teemu.helineva@gmail.com>
+Date:   Sun Oct 29 17:56:08 2023 +0200
+
+    Lisätty tekstiä tiedostoon tiedosto.txt
+
+ tiedosto.txt | 11 +++++++++++
+ 1 file changed, 11 insertions(+)
+
+commit ce4e4fa6f07aa875ca8c90d5453833133903a71f
+Author: Teemu Helineva <teemu.helineva@gmail.com>
+Date:   Sun Oct 29 17:53:06 2023 +0200
+
+    Lisätty hakemisto stuff
+
+ stuff/neljas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 9743c7277f76d47c02d5ae20736586c8fc2bf56d
+Author: Teemu Helineva <teemu.helineva@gmail.com>
+Date:   Sun Oct 29 17:51:36 2023 +0200
+
+    Muutettu toinen.txt ja kolmas.txt
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 54c8b55cdbbf4b1494cb287c198946ab9600a572
+Author: Teemu Helineva <teemu.helineva@gmail.com>
+Date:   Sun Oct 29 17:50:22 2023 +0200
+
+    Lisätty kolmas.txt
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit f27e622717a004399e7cc9f070e5fbde98969406
+Author: Teemu Helineva <teemu.helineva@gmail.com>
+Date:   Sun Oct 29 17:48:34 2023 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 469a79978767e5b2db2746379d37d167ff6d3600
+Author: Teemu Helineva <teemu.helineva@gmail.com>
+Date:   Sun Oct 29 17:46:45 2023 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
